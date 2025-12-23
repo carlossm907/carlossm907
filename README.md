@@ -17,7 +17,7 @@
   </a>
 </p>
 
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdvZWdjOWVremJyMDI3dGl3dHcxbnZ3bzdzcTNrcnNodHh2aHgwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FoghuMR79LOFEt3chy/giphy.gif" width = "35"><b>Let's Connect..!</b>
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdvZWdjOWVremJyMDI3dGl3dHcxbnZ3bzdzcTNrcnNodHh2aHgwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FoghuMR79LOFEt3chy/giphy.gif" width = "35"><b>Let's Connect!</b>
 
 
 <a href="https://www.linkedin.com/in/carlossanchez90/" target="_blank">
